@@ -15,7 +15,7 @@
 
 		<div class="app-navbar flex-lg-grow-1" id="kt_app_header_navbar">
 			<div class="app-navbar-item d-flex align-items-stretch flex-lg-grow-1">
-				<!-- @include("components.extends.search")  -->
+				@include("components.extends.search") 
 			</div>
 		</div>
 	</div>
